@@ -35,7 +35,6 @@ PRODUCT_PACKAGES += \
     BasicDreams \
     BlockedNumberProvider \
     BluetoothMidiService \
-    BookmarkProvider \
     BuiltInPrintService \
     CalendarProvider \
     cameraserver \
